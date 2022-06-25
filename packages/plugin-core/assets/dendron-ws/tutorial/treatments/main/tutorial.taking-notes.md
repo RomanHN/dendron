@@ -131,7 +131,7 @@ To find your notes, do the following:
 2. Enter the name of your note. For example, you can type `vege` to find your `recipes.vegetarian` note.
 3. Press **Enter**. The note is opened.
 
-> 💡 **INFO:** Lookup uses _fuzzy search_, which means you can type out partial queries and still see the results.Entering multiple keywords delimited by space will lookup matching notes regardless of order of the > keywords.
+> 💡 **INFO:** Lookup uses _fuzzy search_, which means you can type out partial queries and still see the results. Entering multiple keywords delimited by space will lookup matching notes regardless of order of the > keywords.
 >
 > - Example: `vege rec` or `rec vege` will match the `recipes.vegetarian` note.
 
